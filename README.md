@@ -15,3 +15,9 @@ This project aims to develop a facial swapping application using deep learning t
 
 ## Download the pre-trained model from the following link:
 [Download InsightFace Model](https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view)
+
+
+## Output
+
+https://github.com/DinjanAI/FaceSwap_Insight_face/assets/159764677/e3585e83-13f0-40a1-8d6c-662c3f1cdb4e
+
