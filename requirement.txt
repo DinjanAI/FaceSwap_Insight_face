@@ -1,2 +1,0 @@
-insightface 0.7.3
-numpy 1.26.4
